@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top: 100px;
 }
 
 .App-logo {
@@ -35,4 +36,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+.input{
+  display: inline;
+  margin: 40px;
+  
+}
+.Addbtn{
+  display: inline;
+}
+.table{
+  margin: 40px 600px;
 }
